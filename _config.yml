@@ -1,18 +1,20 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+title: "hi, i'm richard"
+meta_description: "richard hessler's personal Website, profile, and attempted-blog"
+description: "software engineer with <a href='https://www.kohactive.com/'>kohactive</a>. traveler-wannabe.<br>dc <a href='https://www.generalassembly.com/'>general assembly</a> web development immersive graduate. <br><a href='https://angel.co/patron-1'>patron</a> software wizard. wino. corgi-enthusiast."
+url: 'http://www.richardhessler.com'
+baseurl: '/'
+google_analytics: 'UA-53195372-1'
+# disqus_shortname: 'richessler'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Richard Hessler'
+  email: richessler@gmail.com
+  twitter_username: rjhessler
+  instagram_username: richessler
+  facebook_username: imrichardhessler
+  github_username:  richessler
+  linkedin_username:  richessler
 
 defaults:
   -
@@ -34,6 +36,29 @@ kramdown:
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
-
-gems: ['jekyll-paginate']
+gallery:
+  #path to the gallery
+  dir: photos
+  #title for gallery index
+  title: "Photos"
+  # title prefix for gallery page. title=title_prefix+gallery_name
+  title_prefix: "Photos: "
+  # field to control sorting of galleries for the index page
+  # (possible values are: title, date_time, best_image)
+  sort_field: "date_time"
+  # sizes for thumbnails
+  thumbnail_size:
+    x: 400
+    y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  galleries:
+    chile_trip:
+      best_image: IMG_1068.JPG
+    japan_trip:
+      best_image: IMG_0690.JPG
+    best:
+      best_image: snaileo_gonzales.jpg
+#
+gems: ['jekyll-paginate', 'jekyll-gallery-generator']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
