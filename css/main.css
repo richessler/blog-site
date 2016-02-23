@@ -1,5 +1,6 @@
 @import url(uno.css);
 @import url(monokai.css);
+/*@import url(bootstrap.min.css);*/
 
 /* Modifications */
 
@@ -37,7 +38,8 @@ pre.highlight code,
   white-space: nowrap;
 }
 
-.post-meta__tags {
+.post-meta__tags,
+.gallery-meta__tags{
   font-size: 12px;
   padding: 0 5px;
 }
