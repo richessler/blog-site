@@ -1,18 +1,18 @@
 # Site settings
 title: "hi, i'm richard"
 meta_description: "richard hessler's personal Website, profile, and attempted-blog"
-description: "software engineer with <a href='https://www.kohactive.com/'>kohactive</a>. traveler-wannabe.<br>dc <a href='https://www.generalassembly.com/'>general assembly</a> web development immersive graduate. <br><a href='https://angel.co/patron-1'>patron</a> software wizard. wino. corgi-enthusiast."
+description: "software engineer with <a href='https://www.kohactive.com/'>insert company here</a>. traveler-wannabe.<br>dc <a href='https://www.generalassembly.com/'>general assembly</a> web development immersive graduate. <br><a href='https://angel.co/patron-1'>patron</a> software wizard. wino. corgi-enthusiast."
 url: 'http://www.richardhessler.com'
 baseurl: '/'
 google_analytics: 'UA-53195372-1'
 # disqus_shortname: 'richessler'
 
 author:
-  name: 'Richard Hessler'
-  email: richessler@gmail.com
+  name: Richard Hessler
+#  email: richessler@gmail.com
   twitter_username: rjhessler
   instagram_username: richessler
-  facebook_username: imrichardhessler
+#  facebook_username: imrichardhessler
   github_username:  richessler
   linkedin_username:  richessler
 
