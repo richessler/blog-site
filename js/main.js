@@ -4,7 +4,7 @@ layout: null
 
 $(document).ready(function () {
   $('a.blog-button, a.gallery-button').click(function (e) {
-    $panelCover = $('.panel-cover');
+    var $panelCover = $('.panel-cover');
     if ($panelCover.hasClass('panel-cover--collapsed')) return;
     currentWidth = $panelCover.width();
     if (currentWidth < 960) {
