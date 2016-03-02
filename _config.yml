@@ -12,9 +12,10 @@ author:
 #  email: richessler@gmail.com
   twitter_username: rjhessler
   instagram_username: richessler
-#  facebook_username: imrichardhessler
+# facebook_username: imrichardhessler
   github_username:  richessler
   linkedin_username:  richessler
+  resume: /images/resume/Resume.pdf
 
 defaults:
   -
@@ -40,9 +41,9 @@ gallery:
   #path to the gallery
   dir: photos
   #title for gallery index
-  title: "Photos"
+  title: "my attempt at being a photographer"
   # title prefix for gallery page. title=title_prefix+gallery_name
-  title_prefix: "Photos: "
+  title_prefix: ''
   # field to control sorting of galleries for the index page
   # (possible values are: title, date_time, best_image)
   sort_field: "date_time"
@@ -59,6 +60,8 @@ gallery:
       best_image: IMG_0690.JPG
     best:
       best_image: snaileo_gonzales.jpg
+contact:
+  dir: contact
 #
 gems: ['jekyll-paginate', 'jekyll-gallery-generator']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
