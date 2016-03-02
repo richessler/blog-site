@@ -131,6 +131,7 @@ DEPENDENCIES
   exifr
   github-pages
   jekyll-gallery-generator
+  jemoji
   rmagick
 
 BUNDLED WITH
