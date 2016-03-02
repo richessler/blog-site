@@ -60,3 +60,46 @@ pre.highlight code,
 .push {
   height: 300px;
 }
+
+.social_list {
+  margin: 0;
+}
+
+.navigation--social {
+  margin: 0;
+}
+
+.contact-wrapper {
+  height: 600px;
+}
+.contact-textarea {
+  height: 400px;
+  width: 300px;
+}
+
+.text-around {
+  width: 50%;
+  float: right;
+}
+
+.basic-padding {
+  padding: 15px;
+}
+@media all and (min-width: 340px){
+  .push {
+    height: 0;
+  }
+  .social__item {
+    width: 39px;
+  }
+}
+
+@media all and (min-width: 960px){
+  .push {
+    height: 0;
+  }
+
+  .social__item {
+    width: 39px;
+  }
+}
