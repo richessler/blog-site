@@ -11,7 +11,7 @@ now with that said, for those of you who do not know me:
 
 i’m richard and i’m from florida (i know, i know), but have had my roots in washington, dc for the past 3 years. even after only being in dc for a very short period of time i consider it home and from now on if i ever mention ‘home’ i’m referring to dc.
 
-![richard being richard in miami](/images/me-being-me.jpg){: .text-around .basic-padding}
+![richard being richard in miami](/images/me-being-me.jpg){: .text-around .float-right .basic-padding}
 
 i am a software engineer/web developer and had been working with the wonderful nerds over at [weddingwire](https://www.weddingwire.com/) until very recently when i decided to make a drastic change and get rid of 90% of my belongings and travel the world while working remotely… for a year. the organization which i’m traveling with is called [remote year](http://www.remoteyear.com/) and if you’re interested in following along with me you can checkout my [itinerary](http://www.remoteyear.com/itinerary-march/) and of course all my social medias.
 
