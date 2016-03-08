@@ -5,7 +5,7 @@ description: "traveler-wannabe.<br>dc <a href='https://www.generalassembly.com/'
 url: 'http://www.richardhessler.com'
 baseurl: '/'
 google_analytics: 'UA-53195372-1'
-# disqus_shortname: 'richessler'
+disqus_shortname: 'richardhessler'
 
 author:
   name: Richard Hessler
@@ -62,7 +62,7 @@ gallery:
       best_image: snaileo_gonzales.jpg
 contact:
   dir: contact
-#
+
 gems:
   - jekyll-paginate
   - jekyll-gallery-generator
