@@ -1,8 +1,10 @@
 ---
 title:  "no day like bidet"
+keywords: "cordoba, argentina, travel, traveling, remoteyear, remote year, remote nomad, digital nomad richard hessler, richard, hessler"
+description: "my first experience with south america living in cordoba, argentina"
 date:   2016-03-07 15:39:23
 categories: [personal, travel, córdoba, argentina]
-tags: [me, tourism, alcohol, food, architecture, ]
+tags: [me, tourism, alcohol, food, architecture]
 ---
 
 now that you know the very basics about me i can do a mini dive into what the first week of being plopped into a country that seems to be stuck somewhere between 1965 and 2001 (read: platform shoes are the style here) is like.  i’ve been able to take in the city a bit after 8 days and a few things i believe are worth discussing. i’ll start with one of my favs: fernet.
@@ -11,7 +13,7 @@ now that you know the very basics about me i can do a mini dive into what the fi
 
 if you don’t know much about [fernet](https://es.wikipedia.org/wiki/fernet) it’s a a digestive/apartif beverage that really is only popular in a few places: italy, argentina, and in the minds of united states bartenders (looking at you moises). it’s a type of amaro made from herbs which are macerated with liquor made from grapes and then aged in oak barrels.  there are two types of people in the fernet world: I/O.  in argentina we’ve been consuming it like 18 year olds housing jager (kind of a similar family - cue gag reflex) and it’s commonly mixed with coca-cola (fernet y coca). so if you want to get a taste (swidt?) of argentina go grab a bottle (small one).
 
-![córdoba cultural center](https://s-media-cache-ak0.pinimg.com/736x/81/1c/23/811c232d2dd8f9553001c09d7b0c44dd.jpg){: .pull-left.text-around .basic-padding}
+![córdoba cultural center](https://s-media-cache-ak0.pinimg.com/736x/81/1c/23/811c232d2dd8f9553001c09d7b0c44dd.jpg){: .pull-left. text-around .basic-padding}
 
 of course alcohol is awesome and the wine country here is amazing - stay tuned for a the mendoza post :wine_glass: - but one thing i'v been able to truly appreciate since getting my bearings is the amazing architecture which ranges from [elaborate gothic cathedrals](https://es.wikipedia.org/wiki/catedral_de_c%c3%b3rdoba_(argentina)) of the 16th century to the super modern cultural center. The structures are scattered throughout the city and stick out like a beautiful sore thumb which you keep injuring so you can't not notice it.  smack dab in the center of nueva córdoba is a massive castle-esque structure which you assume to be a museaum of modern art by it's eclectic advertising and bright lights, but instead this castle is a mall. alright i guess that makes sense, but while i’m still on this topic - the rest of córdoba, the parts that aren’t awe-inspiring look sad, like a seasoned war vet that’s ‘seen some shit’ but is too stubborn to change. still beautiful, in a rugged way.
 

@@ -1,8 +1,10 @@
 ---
 title:  "oh hey, i'm richard"
+keywords: "travel, traveling, remoteyear, remote year, remote nomad, digital nomad, richard hessler, richard, hessler, software engineer, web developer"
+description: "an introduction to me, richard"
 date:   2016-03-02 15:04:23
 categories: [personal, travel]
-tags: [me, travel ]
+tags: [me, travel]
 ---
 
 to start off strong, i’m going to preface this blog (i guess you could call it a blog) with saying i’ve never done this before. that answer holds several kg of figurative weight (gotta use metric), but what i’m getting at specifically is i’ve never written my thoughts, experiences, opinions, etc. down to broadcast them judgment. i welcome all the responses and you can get at me [here]({{ site.url }}/contact/). i’ll gladly send them to my spam box :smiley: jk (kinda).
